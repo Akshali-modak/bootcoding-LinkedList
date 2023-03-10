@@ -1,4 +1,4 @@
-package LinkedListDsa;
+package com.bootcoding.linkedlist;
 //Write a method to insert element in the given position (x) of a given linked list.
 // If given position is 2 and linked list size is 4,
 // then insert new element at second location, if given position is 4 and linked list size is 4 then
