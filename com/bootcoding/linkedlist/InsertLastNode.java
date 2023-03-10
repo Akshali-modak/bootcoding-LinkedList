@@ -1,4 +1,4 @@
-package LinkedListDsa;
+package com.bootcoding.linkedlist;
 
 public class InsertLastNode {
     public static void main(String[] args) {
