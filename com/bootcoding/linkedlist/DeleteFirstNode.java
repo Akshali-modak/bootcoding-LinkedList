@@ -1,4 +1,4 @@
-package LinkedListDsa;
+package com.bootcoding.linkedlist;
 
 public class DeleteFirstNode {
     public static void main(String[] args) {
