@@ -1,4 +1,4 @@
-package LinkedListDsa;
+package com.bootcoding.linkedlist;
 
 public class PrintDivisibleNumber {
     public static void main(String[] args) {
